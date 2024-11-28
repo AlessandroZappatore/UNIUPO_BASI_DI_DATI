@@ -18,7 +18,3 @@ La parte teorica del corso è disponibile nel repository [UNIUPO Appunti](https:
     - La query specifica richiesta durante l'esame.  
 - **Query di Esercitazione**:  
   - Una selezione di query SQL fornite dal docente per esercitarsi sul proprio DB
----
-
-### Nota  
-Questo repository è esclusivamente dedicato alla **parte pratica** del corso. Il materiale teorico è disponibile separatamente nel repository [UNIUPO Appunti](https://github.com/AlessandroZappatore/UNIUPO_APPUNTI/tree/0aa64fff66bb10768d1e4fb72abba83051e06883/SECONDO%20ANNO/Basi_di_dati).  
