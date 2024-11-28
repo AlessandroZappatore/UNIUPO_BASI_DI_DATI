@@ -5,8 +5,6 @@
 Corso di **Basi di Dati e Sistemi Informativi** — Anno Accademico 2023/24 (Primo Semestre) presso l'**Università del Piemonte Orientale**.  
 Questo repository contiene il **progetto d'esame** e una raccolta di **query di esercitazione** svolte durante il laboratorio. 🎓
 
-La parte teorica del corso è disponibile nel repository [UNIUPO Appunti](https://github.com/AlessandroZappatore/UNIUPO_APPUNTI/tree/0aa64fff66bb10768d1e4fb72abba83051e06883/SECONDO%20ANNO/Basi_di_dati).
-
 ---
 
 ## 📘 **Contenuti del Repository**  
@@ -18,3 +16,9 @@ La parte teorica del corso è disponibile nel repository [UNIUPO Appunti](https:
     - La query specifica richiesta durante l'esame.  
 - **Query di Esercitazione**:  
   - Una selezione di query SQL fornite dal docente per esercitarsi sul proprio DB
+
+---
+
+### 📜 Teoria:  
+La parte teorica del corso può essere trovata nel repository degli appunti:  
+- [Appunti di Basi di dati](https://github.com/AlessandroZappatore/UNIUPO_APPUNTI/tree/0aa64fff66bb10768d1e4fb72abba83051e06883/SECONDO%20ANNO/Basi_di_dati).
