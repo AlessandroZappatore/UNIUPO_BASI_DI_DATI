@@ -1,6 +1,6 @@
 # 🗃️ **Basi di Dati e Sistemi Informativi**  
 
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AlessandroZappatore/UNIUPO_BASI_DI_DATI&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+![Profile views](https://komarev.com/ghpvc/?username=AlessandroZappatore&label=Visite&color=green)
 
 Corso di **Basi di Dati e Sistemi Informativi** — Anno Accademico 2023/24 (Primo Semestre) presso l'**Università del Piemonte Orientale**.  
 Questo repository contiene il **progetto d'esame** e una raccolta di **query di esercitazione** svolte durante il laboratorio. 🎓
